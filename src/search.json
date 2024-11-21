@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Arun Sharma",
+    "LastName": "Sharma",
+    "Quantity": 100,
+    "ItemName": "Laptop"
+  },
+  {
+    "Name": "John Doe",
+    "LastName": "Doe",
+    "Quantity": 50,
+    "ItemName": "Tablet"
+  },
+  
+  {
+    "Name": "Jane Smith",
+    "LastName": "Smith",
+    "Quantity": 200,
+    "ItemName": "Smartphone"
+  }
+]
